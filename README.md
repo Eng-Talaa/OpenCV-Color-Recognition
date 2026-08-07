@@ -42,6 +42,17 @@ The program performs the following steps:
 
 ---
 
+## How to Run
+
+1. Open the project in Visual Studio Code.
+2. Activate the Anaconda environment.
+3. Install the required libraries if needed.
+4. Run color_recognition.py.
+5. Show colored objects to the webcam.
+6. Press Q to exit.
+
+---
+
 ## Project Demo
 
 ![Real-Time Color Recognition](demo.jpg)
