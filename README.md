@@ -42,6 +42,9 @@ The program performs the following steps:
 
 ---
 
+## Project Demo
+
+![Real-Time Color Recognition](demo.jpg)
 
 
 
